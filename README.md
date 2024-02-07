@@ -23,3 +23,4 @@ This is a tic-tac-toe game that can be played for 2 people, I will explain how t
 10. If there is a win, it is available on the terminal and can also be seen from your browser
     <img width="1440" alt="Screen Shot 2024-02-07 at 13 21 50" src="https://github.com/mfauzzi/test-assesment-avows-technologies/assets/93174286/40c84135-841d-4016-8921-bce3684078e3">
 11. Click try again if you want to play it again
+12. If you want to try rspec, go into the spec directory and execute the rspec command '<name_file>'
